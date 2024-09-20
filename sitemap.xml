@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/nosql/references/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/nosql/teaching-guide/</loc>
          <lastmod>2024-09-20</lastmod>
          <changefreq>daily</changefreq>
@@ -36,7 +41,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccreary.github.io/nosql/concepts/column-famliy/</loc>
+         <loc>https://dmccreary.github.io/nosql/concepts/column-family/</loc>
          <lastmod>2024-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
