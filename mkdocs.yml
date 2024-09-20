@@ -8,8 +8,14 @@ edit_uri: 'blob/master/docs'
 
 nav:
   - Home: index.md
-  - Checklist: checklist.md
-  - Code Highlight Test: code-highlight-test.md
+  - Key Concepts:
+    - Introduction: concepts/index.md
+    - Relational: concepts/relational/index.md
+    - Analytical: concepts/analytical/index.md
+    - Key Value: concepts/key-value/index.md
+    - Column Family: concepts/column-family/index.md
+    - Graph: concepts/graph/index.md
+    - Document: concepts/document/index.md
   - Glossary: glossary.md
   - How We Built This Site: how-we-built-this-site.md
   - References: references.md
