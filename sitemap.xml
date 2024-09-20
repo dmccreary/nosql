@@ -6,7 +6,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/nosql/about/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/nosql/contact/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/analytical/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/column-familiy/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/document/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/graph/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/introduction/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/key-value/</loc>
+         <lastmod>2024-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/nosql/concepts/relational/</loc>
          <lastmod>2024-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
