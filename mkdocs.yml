@@ -8,6 +8,8 @@ edit_uri: 'blob/master/docs'
 
 nav:
   - Home: index.md
+  - About: about.md
+  - Teaching Guide: teaching-guide.md
   - Key Concepts:
     - Introduction: concepts/index.md
     - Relational: concepts/relational/index.md

@@ -19,6 +19,15 @@ In 2014, working with my wife, we published the book
 advocated for putting the NoSQL content early in
 any computer science curriculum.
 
+One of the reasons we wrote this book was due to the lack of high-quality books for teaching the process of database
+selection.  There are many NoSQL books that attempt to
+write a "Hello World!" equivalent using several different databases.
+Although they may give you the general flavor of how to start
+using each database, they don't focus on the tradeoffs
+that solution architects face when selecting a database
+for a project.  Our book and this content should help
+you in these reguards.
+
 My hope is this content helps both teachers and
 students gain a clear understanding of the variety
 of different ways we store data and the impact these
